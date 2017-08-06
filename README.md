@@ -14,3 +14,7 @@ https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/GW-JTLMS
 225: 2700K LEDs
 207: 6500K LEDs
 
+DFlop with S = 1 and clock attached to switching frequency and reset attached to comparitor that compares shunt with reference
+
+
+.
