@@ -20,7 +20,8 @@ shunt : 1.6ohm 1W 1% : https://www.digikey.com/product-detail/en/panasonic-elect
 current amp : 20v/v 350Khz-3db 5vcc: https://www.digikey.com/product-detail/en/texas-instruments/INA180A1IDBVT/296-46627-1-ND/7219063
 -- v(.15A) = 20*1.6*.15 = 4.8V
 
-
+10nf
+relaxation oscillator
 
 
 .
